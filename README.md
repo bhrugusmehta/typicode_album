@@ -1,9 +1,7 @@
 # typicode_albums
 
-A flutter basic app.
+A new Flutter project.
 
-Dio is used to fetch data from server.
-BLoC is used for stat management
-Pagination 
+## Getting Started
 
 
